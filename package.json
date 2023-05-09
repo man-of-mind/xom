@@ -1,5 +1,6 @@
 {
   "name": "flwhm-app",
+  "homepage": "https://man-of-mind.github.io/xom/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
