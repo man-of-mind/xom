@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xom/static/css/main.10d03652.css",
+    "main.js": "/xom/static/js/main.d6c5abe8.js",
+    "index.html": "/xom/index.html",
+    "main.10d03652.css.map": "/xom/static/css/main.10d03652.css.map",
+    "main.d6c5abe8.js.map": "/xom/static/js/main.d6c5abe8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d03652.css",
+    "static/js/main.d6c5abe8.js"
+  ]
+}
